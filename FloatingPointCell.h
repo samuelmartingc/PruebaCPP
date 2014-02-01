@@ -21,7 +21,6 @@ public:
 
 private:
 	double valor;
-
 };
 
 #endif /* FLOATINGPOINTCELL_H_ */
