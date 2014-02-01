@@ -245,6 +245,7 @@ void Spreadsheet::setCelda(const unsigned int fila,const unsigned int columna,co
 	 	}
 	 	delete contenido[i];
 	 }
+	 
 	 delete contenido;
 	 // Se actualizan los atributos
 	 this->columnas = hojaAux.getCols();
